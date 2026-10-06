@@ -1,0 +1,1 @@
+"""HOTELIQ API package."""
